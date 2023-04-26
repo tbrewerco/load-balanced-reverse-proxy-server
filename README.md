@@ -1,6 +1,6 @@
 # Load-Balanced Reverse Proxy Server
 
-This repository contains a basic implementation of a load-balanced reverse proxy server using Node.js and the `http-proxy` library. The reverse proxy server distributes incoming client requests across multiple servers, ensuring efficient utilization of resources.
+This is a basic implementation of a load-balanced reverse proxy server using Node.js and the `http-proxy` library. The reverse proxy server distributes incoming client requests across multiple servers, ensuring efficient utilization of resources.
 
 ## Features
 
